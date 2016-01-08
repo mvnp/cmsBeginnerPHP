@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valo",
+				"valor2"
+			],
+			[
+				"valor",
+				"valor1"
+			],
+			[
+				"p",
+				"produtos"
+			],
+			[
+				"prod",
+				"produto"
+			],
+			[
+				"endof",
+				"endforeach	Language Construct"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ar",
+				"arsort()	standard Function"
+			],
+			[
+				"usu",
+				"usuario"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"cl",
+				"clientes"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"PRINT",
+				"print_r()	standard Function"
+			],
+			[
+				"get",
+				"getDb"
+			],
+			[
+				"prit",
+				"print_r()	standard Function"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"t",
+				"throw	Throw Exception"
+			],
+			[
+				"s",
+				"smarty"
+			],
+			[
+				"temp",
+				"templates_c"
+			],
+			[
+				"str_re",
+				"str_replace()	standard Function"
+			],
+			[
+				"spl_au",
+				"spl_autoload_register()	SPL Function"
+			],
+			[
+				"gera",
+				"gerador"
+			],
+			[
+				"require",
+				"require_once	Language Construct"
+			],
+			[
+				"ca",
+				"cargo"
+			],
+			[
+				"var",
+				"var_dump()	standard Function"
+			],
+			[
+				"requi",
+				"require_once	Language Construct"
+			],
+			[
+				"fun",
+				"funcionario"
+			],
+			[
+				"h",
+				"hook"
+			],
+			[
+				"abs",
+				"abstract 	Language Construct"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/andre/Development/cmsBeginnerPHP"
+	],
+	"file_history":
+	[
+		"/home/andre/Cursos/Devmedia/AngularJS/Aulas/Estudo-Angular/aula7.html",
+		"/home/andre/Cursos/Devmedia/AngularJS/Aulas/Estudo-Angular/public/js/controllers/aula07.controller.js",
+		"/home/andre/Cursos/Devmedia/AngularJS/Aulas/Estudo-Angular/README.TXT",
+		"/home/andre/Cursos/Devmedia/AngularJS/Aulas/public/js/controllers/aula06.controller.js",
+		"/home/andre/Cursos/Devmedia/AngularJS/Aulas/public/js/modules/main.module.js",
+		"/home/andre/Cursos/Devmedia/AngularJS/Aulas/aula6.html",
+		"/home/andre/Cursos/Devmedia/AngularJS/Aulas/README.TXT",
+		"/home/andre/Cursos/Devmedia/AngularJS/Aulas/public/js/modules/module.js",
+		"/home/andre/Development/estoque/public/assets/css/custom.css",
+		"/home/andre/Development/estoque/resources/assets/css/custom.css",
+		"/home/andre/Development/estoque/config/database.php",
+		"/home/andre/Development/estoque/resources/views/detalhes.blade.php",
+		"/home/andre/Development/estoque/resources/views/template.blade.php",
+		"/home/andre/Development/estoque/resources/views/listagem.blade.php",
+		"/home/andre/Development/estoque/resources/views/errors/detalhes.php",
+		"/home/andre/Development/estoque/.env",
+		"/home/andre/Development/estoque/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php",
+		"/home/andre/Development/Projetov1/bancoFiquiticio.php",
+		"/home/andre/Development/news-book/config/config.php",
+		"/home/andre/Development/news-book/lib/Livraria/Db/Adapter/Mysql.php",
+		"/home/andre/Development/news-book/lib/Livraria/Db/Connection.php",
+		"/home/andre/Development/news-book/lib/Livraria/Db/Abstract.php",
+		"/home/andre/Development/news-book/config/index.php",
+		"/home/andre/Development/news-book/config/loader.php",
+		"/home/andre/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/andre/Development/news-book/lib/Livraria/Db/Interface.php",
+		"/home/andre/Development/news-book/README.md",
+		"/home/andre/Development/news-book/templates/index.phtml",
+		"/home/andre/Development/news-book/templates/admin/categorias.phtml",
+		"/home/andre/Development/news-book/templates/admin/admin.phtml",
+		"/home/andre/Development/news-book/config/smarty.php",
+		"/home/andre/Development/Code/Exercicies/ITabelaDesconto.php",
+		"/home/andre/Development/Code/Exercicies/TabelaDePrecoPadrao.php",
+		"/home/andre/Development/Code/Exercicies/Frete.php",
+		"/home/andre/Development/Code/Exercicies/Transportadora.php",
+		"/home/andre/Development/Code/Exercicies/index.php",
+		"/home/andre/Development/Code/Exercicies/IServicoDeEntrega.php",
+		"/home/andre/Development/Code/Exercicies/Compra.php",
+		"/home/andre/Development/Code/Exercicies/CalculadoraDePrecos.php",
+		"/home/andre/Development/Code/Exercicies/NotaFiscal.php",
+		"/home/andre/Development/Code/Exercicies/Fatura.php",
+		"/home/andre/Development/Code/Exercicies/EnviadorDeEmail.php",
+		"/home/andre/Development/Code/Exercicies/IAcaoAposGerarNota.php",
+		"/home/andre/Development/Code/Exercicies/NotaFiscalDao.php",
+		"/home/andre/Development/Code/Exercicies/GeradorNotaFiscal.php",
+		"/home/andre/Development/Code/Exercicies/Tester.php",
+		"/home/andre/Development/Code/Exercicies/QuinzeOuVinteCincoPorcento.php",
+		"/home/andre/Development/Code/Exercicies/IRegra.php",
+		"/home/andre/Development/Code/Exercicies/Funcionario.php",
+		"/home/andre/Development/Code/Exercicies/DezOuVintePorcento.php",
+		"/home/andre/Development/Code/Exercicies/Desenvolvedor.php",
+		"/home/andre/Development/Code/Exercicies/Dba.php",
+		"/home/andre/Development/Code/Exercicies/Cargo.php",
+		"/home/andre/Development/Code/Exercicies/CalculadoraDeSalario.php",
+		"/home/andre/Development/Code/solid/IRegraCalculo.php",
+		"/home/andre/Development/Code/Cargo.php",
+		"/home/andre/Development/Code/CalculadoraDeSalario.php",
+		"/home/andre/Development/Code/DezOuVintePorcento.php",
+		"/home/andre/Development/Code/QuinzeOuVinteCincoPorcento.php",
+		"/home/andre/Development/Code/Funcionario.php",
+		"/home/andre/Development/Code/index.php",
+		"/home/andre/Development/Code/IRegraCalculo.php",
+		"/home/andre/Development/Code/Desenvolvedor.php",
+		"/home/andre/Development/Code/Dba.php",
+		"/home/andre/Development/news/wp-content/themes/magazine/classes/class-setup.php",
+		"/home/andre/Development/news/wp-content/themes/magazine/classes/class-base.php",
+		"/media/andre/80A48704A486FC42/andre/Dropbox/Public/html-css/projeto/bio.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'';\n",
+			"\">",
+			" </",
+			"app",
+			"container",
+			"produto",
+			"homestead",
+			"estoque_laravel",
+			"			\n",
+			"Livraria_Db_Abstratc",
+			"');",
+			"load",
+			"addModulo",
+			"calcula",
+			"Calculadora",
+			"HTML"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cmsBeginnerPHP.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				"config/da",
+				"config/database.php"
+			],
+			[
+				"conectro",
+				"vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php"
+			],
+			[
+				"funcionario",
+				"Exercicies/Funcionario.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
